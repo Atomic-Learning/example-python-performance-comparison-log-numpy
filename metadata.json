@@ -10,7 +10,7 @@
         "python",
         "numpy"
     ],
-    "duration": 8,
+    "duration": 6,
     "prerequisites": [
         "numpy-arrays",
         "maths-logarithms",

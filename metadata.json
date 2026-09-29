@@ -25,5 +25,8 @@
         "example-performance-comparison-sequence-zeros-numpy",
         "example-performance-comparison-ascending-sequence-numpy",
         "example-performance-comparison-dot-product-numpy"
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }

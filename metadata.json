@@ -18,6 +18,7 @@
         "python-standard-library",
         "python-maps",
         "python-range-in-for-loops",
+        "python-making-lists-from-ranges",
         "programming-profiling-time-variability",
         "python-measuring-elapsed-time-with-time-function"
     ],

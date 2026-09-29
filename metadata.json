@@ -1,6 +1,6 @@
 {
     "title": "Example: Performance Comparison of Logarithms in Native Python and NumPy",
-    "slug": "example-performance-comparison-log-numpy",
+    "slug": "example-python-performance-comparison-log-numpy",
     "description": "Compares the time taken to calculate the logarithm of a single value and of an array of values using Python's math module versus NumPy.",
     "authors": [
         "chris-cooling",

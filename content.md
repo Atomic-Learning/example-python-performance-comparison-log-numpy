@@ -15,7 +15,7 @@ repetitions = 1000000
 start_time = time.time()
 for i in range(repetitions):
   c = math.log(2)
-## print('Non-NumPy single log:', time.time() - start_time)
+print('Non-NumPy single log:', time.time() - start_time)
 ```
 
 ## NumPy Implementation

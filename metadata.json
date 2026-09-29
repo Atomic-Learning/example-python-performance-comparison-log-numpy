@@ -1,22 +1,29 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Example: Performance Comparison of Logarithms in Native Python and NumPy",
+    "slug": "example-performance-comparison-log-numpy",
+    "description": "Compares the time taken to calculate the logarithm of a single value and of an array of values using Python's math module versus NumPy.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy"
     ],
-    "duration": 0,
+    "duration": 8,
     "prerequisites": [
-        "",
-        ""
+        "numpy-arrays",
+        "maths-logarithms",
+        "numpy-logarithms",
+        "python-standard-library",
+        "python-maps",
+        "python-range-in-for-loops",
+        "programming-profiling-time-variability",
+        "python-measuring-elapsed-time-with-time-function"
     ],
     "related": [
-        "",
-        ""
+        "example-performance-comparison-sequence-zeros-numpy",
+        "example-performance-comparison-ascending-sequence-numpy",
+        "example-performance-comparison-dot-product-numpy"
     ]
 }
